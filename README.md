@@ -4,6 +4,7 @@
 
 **B.Tech Computer Science Engineering — Cybersecurity**
 **KL University**
+**2024 – 2028**
 
 I’m a cybersecurity-focused developer interested in **threat detection, cloud security, network security, SOC operations, and automotive cybersecurity**. I enjoy building practical security projects that combine programming, networking, cloud technologies, and security engineering.
 
@@ -11,10 +12,10 @@ I’m a cybersecurity-focused developer interested in **threat detection, cloud 
   <a href="https://github.com/sivateja7285">
     <img src="https://img.shields.io/badge/GitHub-sivateja7285-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="www.linkedin.com/in/sivateja-bandaru-70a6ab37b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:2400030961@kluniversity.in">
+  <a href="mailto:sivatejabandaru72@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -57,44 +58,52 @@ A real-time automotive cybersecurity monitoring platform designed to simulate an
 `Python` `Streamlit` `CAN Bus` `Cybersecurity` `MITRE ATT&CK`
 
 🔗 **Repository:**
-[https://github.com/sivateja7285/Automotive-Cybersecurity-SOC-Dashboard](https://github.com/sivateja7285/Automotive-Cybersecurity-SOC-Dashboard)
+https://github.com/sivateja7285/Automotive-Cybersecurity-SOC-Dashboard
 
 ---
 
+## 🔨 Projects in Progress
+
 ### 🎣 Phishing Detection & URL Analyzer
 
-A cybersecurity project focused on analyzing URLs and identifying indicators associated with potentially malicious or phishing websites.
+A cybersecurity project currently under development for analyzing URLs and identifying indicators associated with potentially malicious or phishing websites.
 
-**Focus Areas:**
+**Planned Focus:**
 
-* URL analysis
+* URL feature extraction
 * Suspicious domain detection
-* Phishing indicators
+* Phishing indicator analysis
 * Security-focused automation
 * Threat classification
+* Machine learning-based detection
 
 **Tech Stack:**
 `Python` `Cybersecurity` `Machine Learning` `URL Analysis`
+
+**Status:** 🟡 In Progress
 
 ---
 
 ### ☁️ Cloud Security Monitoring Lab
 
-A practical AWS security environment designed to explore cloud infrastructure security, identity management, monitoring, logging, and threat detection.
+An AWS-based security project currently under development to explore cloud infrastructure security, identity management, monitoring, logging, and threat detection.
 
-**Focus Areas:**
+**Planned Focus:**
 
-* AWS IAM
+* AWS IAM security
 * EC2 security
 * VPC security
 * Security Groups
 * Cloud monitoring
-* Logging
+* Logging and auditing
 * Security detection
 * Cloud security best practices
 
 **Tech Stack:**
 `AWS` `EC2` `IAM` `VPC` `Cloud Security` `Linux`
+
+**Status:** 🟡 In Progress
+
 
 ---
 
@@ -170,28 +179,48 @@ Cybersecurity
 
 ---
 
-## 📜 Certifications & Experience
+## 📜 Certifications & Credentials
 
 ### ☁️ AWS Certified Cloud Practitioner
 
-Foundational certification covering AWS Cloud concepts, architecture, security, services, and cloud economics.
+**Amazon Web Services (AWS)**
+Covers fundamental AWS cloud concepts, core services, cloud architecture, security, pricing, and basic cloud best practices.
 
-### 🛡️ Palo Alto Networks Internship
+---
 
-Completed cybersecurity-focused internship experience involving security concepts and practical learning.
+### 🛡️ Palo Alto Networks Cybersecurity Internship
+
+**Palo Alto Networks**
+Covers cybersecurity fundamentals, network security concepts, threat prevention, security technologies, and practical exposure to cybersecurity.
+
+---
+
+### 🤖 GitHub Copilot
+
+**Microsoft**
+Covers the use of AI-powered coding assistance for software development, including code generation, code completion, debugging, and developer productivity.
+
+---
+
+### 🏎️ High-Performance Leadership: Lessons from Formula 1®
+
+**Santander Open Academy**
+Focuses on leadership, teamwork, communication, decision-making, performance management, and lessons from Formula 1® applied to professional environments.
+
+
 
 ---
 
 ## 📚 Currently Learning
 
 * 🔎 Security Operations & SOC Engineering
-* 🧠 Machine Learning for Cybersecurity
 * ☁️ Advanced AWS Cloud Security
 * 🚗 Automotive & CAN Bus Security
 * 🎯 Threat Intelligence
 * 🛡️ SIEM & Detection Engineering
 * 🐍 Python Security Automation
 * 🔬 Security Research
+* 🇩🇪 German Language
 
 ---
 
@@ -204,27 +233,6 @@ Completed cybersecurity-focused internship experience involving security concept
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sivateja7285&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sivateja7285/sivateja7285/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivateja7285&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
 
 ---
 
@@ -236,13 +244,28 @@ I’m continuously working on projects that help me move from **learning cyberse
 
 ---
 
-## 🤝 Let's Connect
+🤝 Open to Collaboration & Opportunities
+
+I’m open to collaborating on:
+
+🛡️ Cybersecurity projects
+🔎 SOC & threat detection projects
+☁️ Cloud security projects
+🚗 Automotive cybersecurity research
+🌐 Network security projects
+🤖 Machine learning for cybersecurity
+🔬 Cybersecurity research and academic projects
+
+I’m also open to internships, project collaborations, research opportunities, and entry-level cybersecurity opportunities where I can learn, contribute, and build practical security solutions.
+
+📩 Feel free to reach out if you'd like to collaborate or work together.
+
 
 <p align="center">
   <a href="https://github.com/sivateja7285">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:2400030961@kluniversity.in">
+  <a href="mailto:sivatejabandaru72@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
