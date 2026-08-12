@@ -12,9 +12,9 @@ I’m a cybersecurity-focused developer interested in **threat detection, cloud 
   <a href="https://github.com/sivateja7285">
     <img src="https://img.shields.io/badge/GitHub-sivateja7285-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/sivateja-bandaru-70a6ab37b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+ <a href="https://www.linkedin.com/in/sivateja-bandaru-70a6ab37b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <a href="mailto:sivatejabandaru72@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -222,17 +222,6 @@ Focuses on leadership, teamwork, communication, decision-making, performance man
 * 🔬 Security Research
 * 🇩🇪 German Language
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivateja7285&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivateja7285&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 
 ---
 
@@ -265,6 +254,9 @@ I’m also open to internships, project collaborations, research opportunities, 
   <a href="https://github.com/sivateja7285">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
   </a>
+  <a href="https://www.linkedin.com/in/sivateja-bandaru-70a6ab37b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <a href="mailto:sivatejabandaru72@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
