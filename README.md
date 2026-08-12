@@ -1,7 +1,3 @@
-Absolutely. This version keeps the **visual style of the first profile** but makes the content strongly aligned with your **Cybersecurity + Cloud Security + SOC + Automotive Cybersecurity** profile.
-
-Replace your current `README.md` in the `sivateja7285/sivateja7285` repository with this:
-
 # 👋 Hi, I'm Sivateja
 
 ### 🛡️ Cybersecurity Student | Cloud Security | SOC & Threat Detection
