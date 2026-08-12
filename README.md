@@ -1,10 +1,12 @@
-# 👋 Hi, I'm Sivateja
+# 👋 Hi, I'm Sivateja Bandaru
 
 ### 🛡️ Cybersecurity Student | Cloud Security | SOC & Threat Detection
 
-**B.Tech Computer Science Engineering — Cybersecurity**
-**KL University**
+### 🎓 B.Tech in Computer Science Engineering — Cybersecurity
+
+**KL University**<br>
 **2024 – 2028**
+
 
 I’m a cybersecurity-focused developer interested in **threat detection, cloud security, network security, SOC operations, and automotive cybersecurity**. I enjoy building practical security projects that combine programming, networking, cloud technologies, and security engineering.
 
