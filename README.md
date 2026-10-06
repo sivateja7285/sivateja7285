@@ -14,9 +14,15 @@ I’m a cybersecurity-focused developer interested in **threat detection, cloud 
   <a href="https://github.com/sivateja7285">
     <img src="https://img.shields.io/badge/GitHub-sivateja7285-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
- <a href="https://www.linkedin.com/in/sivateja-bandaru-70a6ab37b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+
+  <a href="https://www.linkedin.com/in/sivateja-bandaru-70a6ab37b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://tryhackme.com/p/sivateja2118r" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+
   <a href="mailto:sivatejabandaru72@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
